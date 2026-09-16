@@ -1,0 +1,2 @@
+# Obsidian_notes_metaphysics_plugins
+适用于obsidian的术数排盘与学习插件，目前已兼容Windows 10-11，MacOS最新版
