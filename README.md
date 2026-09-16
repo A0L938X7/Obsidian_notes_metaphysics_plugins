@@ -1,4 +1,4 @@
-# Obsidian术数学习与排盘插件
+# Obsidian术数学习与排盘插件（Vibe Coding）
 ### 作者：姜玄衣
 适用于obsidian的术数排盘与学习插件，目前已兼容Windows 10-11，MacOS最新版
 #
